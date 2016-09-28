@@ -2,8 +2,13 @@
   background: lightblue;
 }
 
+.intro-section-block {
+  height: 300px;
+}
+
 .intro-section {
   display: inline;
+  height: 1000px;
 }
 
 #color-display {
