@@ -3,5 +3,5 @@ var colorNameDisplay = $("#color-display")
 
 colorfulElements.hover(function(e) {
   var elementHoveredOver = $(e.target)
-  colorNameDisplay.html("");
+  colorNameDisplay.html(color);
 })
