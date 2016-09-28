@@ -1,9 +1,9 @@
-#red {
-  background: blue;
+#blue {
+  background: lightblue;
 }
 
 .intro-section {
-  display: inline;
+  display: block;
 }
 
 #color-display {
