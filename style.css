@@ -2,12 +2,9 @@
   background: lightblue;
 }
 
-.intro-section-block {
-  height: 300px;
-}
-
 .intro-section {
   display: inline;
+  border: 1px solid black;
   height: 1000px;
 }
 
