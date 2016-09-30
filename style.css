@@ -1,0 +1,13 @@
+#blue {
+  background: lightblue;
+}
+
+.intro-section {
+  display: inline;
+  border: 1px solid black;
+  height: 1000px;
+}
+
+#color-display {
+  margin-top: 20px; 
+}
