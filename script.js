@@ -1,4 +1,3 @@
-console.log("asdF")
 var colorfulElements = $(".intro-section")
 var colorNameDisplay = $("#color-display")
 
